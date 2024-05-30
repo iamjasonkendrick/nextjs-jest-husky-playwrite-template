@@ -1,3 +1,3 @@
 module.exports = {
-  '*.{ts, tsx, js, json}' : () => ['bun run validate'],
+  '*.{ts,tsx,js,json}': () => ['bun run validate'],
 }
